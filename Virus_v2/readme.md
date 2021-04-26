@@ -1,7 +1,9 @@
-1-copia cartella.exe e cliccami.cmd nella cartella immagini
-2-crea una nuova cartella di nome virus all'interno della cartella immagini
-3-copia cartella.exe e cliccami.cmd al suo interno
-4-rendi la cartella virus nascosta, lasciando però il suo contenuto visibile
-5-copia virusV.2.cmd sul desktop e crea un collegamento
-6-rendi virusV.2.cmd nascosta
-7-copia il collegamento nella cartella C:\Users\Ospite\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+<h1>Istruzioni</h1>
+
+1- Copia cartella.exe e cliccami.cmd nella cartella immagini<br>
+2- Crea una nuova cartella di nome <code>virus</code> all'interno della cartella immagini<br>
+3- Copia <em>cartella.exe</em> e <em>cliccami.cmd</em> al suo interno<br>
+4- Rendi la cartella virus nascosta, lasciando però il suo contenuto visibile<br>
+5- Copia <em>virusV.2.cmd</em> sul desktop e crea un collegamento<br>
+6- Rendi <em>virusV.2.cmd</em> nascosta<br>
+7- Copia il collegamento nella cartella <code>C:\Users\Ospite\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</code>
